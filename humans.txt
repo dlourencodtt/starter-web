@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Diogo Lourenco	dlourenco@deloitte.pt	@dlourenco
 
 # THANKS
 
